@@ -82,7 +82,7 @@ I am deeply passionate about deploying and securing systems while continuously e
 
 ###
 
-- I am learning:
+- I want to learn in Future:
 
 <div align="left" style="padding: 10px;">
    <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
