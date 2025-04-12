@@ -6,7 +6,7 @@
 
 I am deeply passionate about deploying and securing systems while continuously exploring and adopting emerging technologies to drive innovation and excellence in the DevSecOps landscape.
 
-👉 Areas I am exploring currently: Go, Python, Bash, Networking, Terraform, AWS, Cloudflare 👨‍💻
+👉 Areas I am exploring currently: Go, Python, Bash, Networking, Terraform, AWS, Cloudflare, Proxmox(HomeLab), Traefik Proxy, Hashnode Blogs. 👨‍💻
 <br/>
 
 
