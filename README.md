@@ -85,15 +85,15 @@ I am deeply passionate about deploying and securing systems while continuously e
 - I want to learn in Future:
 
 <div align="left" style="padding: 10px;">
-   <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" height="40" alt="elm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=haskell" height="40" alt="haskell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
+<img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" height="40" alt="elm logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=haskell" height="40" alt="haskell logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
 </div>
 
 [twitter]: https://x.com/KunalYadavaa
