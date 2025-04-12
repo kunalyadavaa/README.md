@@ -31,10 +31,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/oebelus/count.svg?"  />
-</div>
-
 ###
 
 - Languages I use:
