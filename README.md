@@ -1,8 +1,11 @@
-### Hi there, I'm Kunal aka azycodes👋
+![bcfc8907-5b6c-4f75-a139-524e2a2c8af0](https://github.com/user-attachments/assets/4da2383a-ec5c-45c0-8564-4de15d221e4a)
 
-## I love to build new systems and explore new tech!!
 
-👉 Areas I have explored: HTML, CSS, JavaScript, React, MySQL, Spring Boot, Deep Learning, Machine Learning 🧢
+### Hi there, I'm Kunal aka labduck👋
+
+## I love to Deploy &Secure new systems and explore new tech!!
+
+👉 Areas I have explored: Go, Python, Bash, Networking, Terraform, AWS, Cloudflare 👨‍💻
 <br/>
 
 
@@ -13,7 +16,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Cloudflare" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/cloudflare.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
