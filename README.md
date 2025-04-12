@@ -48,7 +48,7 @@ I am deeply passionate about deploying and securing systems while continuously e
 
 - Technologies I use:
 
-<div align="center" style="padding: 10px;">
+<div align="left" style="padding: 10px;">
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo"  />
