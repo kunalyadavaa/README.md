@@ -1,8 +1,6 @@
-![Uploading 03c3c2be-9f18-4718-8a01-9c952941298b.gif…]()
+![03c3c2be-9f18-4718-8a01-9c952941298b](https://github.com/user-attachments/assets/242cc16a-9399-4988-bcc2-79aa6db43288)
 
-
-
-### Hi there, I'm Kunal aka labduck👋
+### Hey there, I'm Kunal aka labduck👋
 
 ## I love to Deploy &Secure new systems and explore new tech!!
 
